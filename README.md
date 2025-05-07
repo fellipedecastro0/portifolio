@@ -1,10 +1,10 @@
-# 📊 Portfólio de Fellipe de Castro Oliveira
+#  Portfólio de Fellipe de Castro Oliveira
 
 Bem-vindo ao meu portfólio! Aqui você encontra um resumo dos meus conhecimentos, projetos e materiais de apresentação.
 
 ---
 
-## 👋 Sobre mim
+##  Sobre mim
 
 - **Nome:** Fellipe de Castro Oliveira
 - **Formação:** Estudante de Engenharia de Software (2º semestre) no CEUB
@@ -16,7 +16,7 @@ Bem-vindo ao meu portfólio! Aqui você encontra um resumo dos meus conhecimento
 
 ---
 
-## 🛠️ Projetos Destacados
+##  Projetos Destacados
 
 ### Projeto Acadêmico: Gestor de Despesas Pessoais
 - **Descrição:** Aplicação em Python para cadastro e controle de despesas.
@@ -27,7 +27,7 @@ Bem-vindo ao meu portfólio! Aqui você encontra um resumo dos meus conhecimento
   - Interface básica em linha de comando
 - **Repositório:** [github.com/fellipedecastro0/gestor-despesas](https://github.com/fellipedecastro0/gestor-despesas)
 
-## 💡 Competências e Conhecimentos
+##  Competências e Conhecimentos
 
 - Trabalho em Equipe e Proatividade
 - Python e Lógica de Programação
@@ -36,7 +36,7 @@ Bem-vindo ao meu portfólio! Aqui você encontra um resumo dos meus conhecimento
 
 ---
 
-## 📂 Materiais de Apresentação
+##  Materiais de Apresentação
 
 - **Slides gerais do portfólio:** [Baixar PDF](https://github.com/fellipedecastro0/portfolio/raw/main/slides/portifolio-fellipe.pdf)
 
