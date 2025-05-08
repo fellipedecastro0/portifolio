@@ -34,11 +34,6 @@ Bem-vindo ao meu portfólio! Aqui você encontra um resumo dos meus conhecimento
 - Inglês Avançado
 - HTML, CSS e JavaScript
 
----
-
-##  Materiais de Apresentação
-
-- **Slides gerais do portfólio:** [Baixar PDF](https://github.com/fellipedecastro0/portfolio/raw/main/slides/portifolio-fellipe.pdf)
 
 ---
 
