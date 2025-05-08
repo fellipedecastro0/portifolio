@@ -25,7 +25,7 @@ Bem-vindo ao meu portfólio! Aqui você encontra um resumo dos meus conhecimento
   - Cálculo de saldo mensal
   - Relatórios simples via terminal
   - Interface básica em linha de comando
-- **Repositório:** [github.com/fellipedecastro0/gestor-despesas](https://github.com/fellipedecastro0/gestor-despesas)
+- **Repositório:** [github.com/fellipedecastro0/gestor-despesas]([https://github.com/fellipedecastro0/gestor-despesas](https://github.com/fellipedecastro0/gestor_despesas_pessoais))
 
 ##  Competências e Conhecimentos
 
