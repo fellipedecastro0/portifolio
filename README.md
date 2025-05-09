@@ -40,7 +40,8 @@ Bem-vindo ao meu portfólio! Aqui você encontra um resumo dos meus conhecimento
 ## 📫 Contato
 
 - **GitHub:** [github.com/fellipedecastro0](https://github.com/fellipedecastro0)
-- **LinkedIn:**((https://www.linkedin.com/in/fellipe-de-castro-oliveira/))
+- **LinkedIn:** [linkedin.com/in/fellipe-de-castro-oliveira](https://www.linkedin.com/in/fellipe-de-castro-oliveira/)
+
 - **Email:** fellipedecastro0@gmail.com
 
 ---
